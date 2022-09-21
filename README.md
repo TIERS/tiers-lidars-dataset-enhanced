@@ -5,7 +5,7 @@ Welcome to TIERS lidars dataset! Our paper has been accepted by IEEE IROS 2022. 
 
 <div align=center>
 <img src="./imgs/system_fig.png" width="1000px">
-<img src="./imgs/intro_new.jpg" width="1000px" label="Fig. 2">
+<!-- <img src="./imgs/intro_new.jpg" width="1000px" label="Fig. 2"> -->
 </div>
 
 
