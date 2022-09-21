@@ -28,7 +28,7 @@ Indoor data(Calibrate Sequence) |  OpenRoad SLAM example(Road03 Sequence)
 Forest SLAM example(Forest01 Sequence) |  Corridor SLAM example(Indoor10 Sequence)
 ![](./imgs/slam_3rd.gif)  |  ![](./imgs/slam_forest.gif)
 
-The dataset is available at the [University of Turku servers]([https://utufi.sharepoint.com/:f:/s/msteams_0ed7e9/EidIYx-aBBFCgsR0pptbzHwBeNiJZSzUBtGcPMcXEXix6w?e=g18kMN](https://utufi.sharepoint.com/:f:/s/msteams_0ed7e9/Etwsa7m8hxhMk9H3x-K6DfUBgU3x-ZK9vMeD_V0J2mdHwA)). Specific links for each sequence and for the ground truth data are available in Section 3.1 of this file.
+The dataset is available at the [University of Turku servers](https://utufi.sharepoint.com/:f:/s/msteams_0ed7e9/Etwsa7m8hxhMk9H3x-K6DfUBgU3x-ZK9vMeD_V0J2mdHwA). Specific links for each sequence and for the ground truth data are available in Section 3.1 of this file.
 
 ## ABSTRACT:
 
