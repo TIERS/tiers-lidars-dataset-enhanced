@@ -40,7 +40,7 @@ Keywords: Lidar, Dataset, Multi-modal, Multi-scenario, SLAM, Solid-state lidarsA
 
    * a ground truth trajectory generation method for environments where MOCAP or GNSS/RTK are unavailable that leverages the multi-modality of the data acquisition platform and high-resolution sensors;% by solid-state lidar with a Non-repetitive scanning pattern and high-resolution spinning lidar.
 
-* a new dataset with data from 5 different lidar sensors, one lidar camera, and one stereo fisheye cameras in a variety of environments as illustrated in [here][./imgs/intro_new.jpg] . Ground truth data is provided for all sequences; 
+* a new dataset with data from 5 different lidar sensors, one lidar camera, and one stereo fisheye cameras in a variety of environments as illustrated in [here](./imgs/intro_new.jpg) . Ground truth data is provided for all sequences; 
 * the benchmarking of ten state-of-the-art filter-based and optimization-based SLAM methods on our proposed dataset in terms of the accuracy of odometry, memory and computing resource consumption. The results indicate the limitations of current SLAM algorithms and potential future research directions.
 
 
