@@ -249,6 +249,7 @@ We teseted some well-known lidar SLAM methods, which are listed below:
 ### 4.2 Trajectory results
 <div align=center>
 <img src="./imgs/traj_compare.png" width="1200px">
+</div>
 <div align=center>
 <img src="./imgs/ape_compare.png" width="1200px">
 </div>
@@ -257,6 +258,7 @@ We teseted some well-known lidar SLAM methods, which are listed below:
 
 <div align=center>
 <img src="./imgs/multi_platform.png" width="1200px">
+</div>
 
 ## 5. DEVELOPMENT TOOLKITS 
 ### 5.1 Frame_ID reset
