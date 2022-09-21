@@ -252,6 +252,7 @@ We teseted some well-known lidar SLAM methods, which are listed below:
 
 <div align=center>
 <img src="./imgs/ape_compare.png" width="1200px">
+
 ### 4.3 Run-time evaluation across certain computing platforms
 
 <div align=center>
