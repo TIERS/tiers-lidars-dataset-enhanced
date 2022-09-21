@@ -180,7 +180,7 @@ The rostopics of our rosbag sequences are listed as follows:
 <div align=center>
 <img src="./imgs/data_sequences.png" width="500px">
 <p align="center">List of data sequences in our dataset </p>
- <p align="center">(V: Velodyne VLP-16, H:Livox Horizon, A:Livox Avia, O_0: Ouster OS0, O_1: Ouster OS1.</p>
+ 
 </div>
 
 
