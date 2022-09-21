@@ -13,7 +13,7 @@ Welcome to TIERS lidars dataset! Our paper has been accepted by IEEE IROS 2022. 
 
 |  OS0  | OS1 |  Horizon  |  Avia  |  Velo  |
 |  :----:  | :----:  | :----:  | :----:  | :----:  |
-|  <img src="./imgs/os0_demo.gif" width="180px" >  | <img src="./imgs/os1_demo.gif" width="180px"> | <img src="./imgs/hori_demo.gif " width="180px"> | <img src="./imgs/avia_demo.gif" width="180px" > | <img src="./imgs/velo_demo.gif" width="180px" > |
+|  <img src="./imgs/os0_demo.gif" width="180px" >  | <img src="./imgs/os1_demo.gif" width="180px"> | <img src="./imgs/hori_demo.gif " > | <img src="./imgs/avia_demo.gif" width="180px" > | <img src="./imgs/velo_demo.gif" width="180px" > |
 
 Our dataset was captured by a rich suite of sensors. Subsets of the data from the Indoor10 sequence are visualized here. From left to right are the lidar data of Ouster OS0, OusterOS1, Livox Horizon, Livox Avia, and Velodyne Lidar.
 
