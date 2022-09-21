@@ -217,7 +217,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag
 --|:--|:--:|--:|--:|--:
 LidarsCali|2022-02-11|21.9g|19.1s|room| [Rosbag](https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/Ea0qTMxHxR5GsHMX62HRjFMBxpdrOrp9fMSfKkxp2e5DAg?e=HmjOoT)
 
-### 3.4 time delay of dataset
+### 3.4 Time-offset of dataset
 
 <div align=center>
 <img src="./imgs/time_offset.png" width="1200px">
