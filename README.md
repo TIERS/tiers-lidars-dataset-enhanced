@@ -14,11 +14,11 @@ Welcome to TIERS lidars dataset!
 
 |  OS0  | OS1 |  Horizon  |  Avia  |  Velo  |
 |  :----:  | :----:  | :----:  | :----:  | :----:  |
-|  <img src="./imgs/os0_demo.gif" width="180px" >  | <img src="./imgs/os1_demo.gif" width="180px"> | <img src="./imgs/hori_demo.gif " > | <img src="./imgs/avia_demo.gif" width="180px" > | <img src="./imgs/velo_demo.gif" width="180px" > |
+|  <img src="./imgs/os0_demo.gif" width="180px" >  | <img src="./imgs/os1_demo.gif" width="180px"> | <img src="./imgs/hori_demo.gif " width="180px" > | <img src="./imgs/avia_demo.gif" width="180px" > | <img src="./imgs/velo_demo.gif" width="180px" > |
 
 Our dataset was captured by a rich suite of sensors. Subsets of the data from the Indoor10 sequence are visualized here. From left to right are the lidar data of Ouster OS0, OusterOS1, Livox Horizon, Livox Avia, and Velodyne Lidar.
 
-<img src="./imgs/image_demo.gif" width="1000px">
+<img src="./imgs/image_demo.gif" width="800px">
 
 <p align="left">  The above images show the reflection map (top) and the range map (bottom) of Ouster OS0, respectively. The left one in the middle is the image data of L515, and the one on the right is the fisheye image data of T265. </p>
 
@@ -48,12 +48,14 @@ Keywords: Lidar, Dataset, Multi-modal, Multi-scenario, SLAM, Solid-state lidarsA
 
 ## Updates 
 
-2022.03.01   Initial dataset upload
+2022.09.20   Initial dataset upload \
+2022.09.20   Update rosbag links
+
 
 
 ## 1. LICENSE
 
-This work is licensed under the MIT license and is provided for academic purpose. Please contact us at qingqli@utu.fi for further information.  
+This work is licensed under the MIT license and is provided for academic purpose. Please contact us at sier.s.ha@utu.fi or qingqli@utu.fi for further information.  
 
 
 ## 2. SENSOR SETUP
@@ -63,7 +65,7 @@ This work is licensed under the MIT license and is provided for academic purpose
 Physical drawings and schematics of the sensor suite is given below. The unit of the figures is centimeter.
 
 <div align=center>
-<img src="./imgs/hardware_scales.png" width="1200px">
+<img src="./imgs/hardware_scales.png" width="800px">
 </div>
 <p align="center">Our data collecting platform, front view RGB (left), top view (middle) and front view (right).</p>
 
@@ -396,7 +398,3 @@ Please cite our [*Dataset* paper](https://arxiv.org/pdf/2203.03454v1.pdf) if the
 }
 
 ```
-
-
-
-[./imgs/intro_new.jpg]: 
