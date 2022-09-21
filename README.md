@@ -249,17 +249,14 @@ We teseted some well-known lidar SLAM methods, which are listed below:
 ### 4.2 Trajectory results
 <div align=center>
 <img src="./imgs/traj_compare.png" width="1200px">
-
 <div align=center>
 <img src="./imgs/ape_compare.png" width="1200px">
-
 ### 4.3 Run-time evaluation across certain computing platforms
 
 <div align=center>
 <img src="./imgs/multi_platform.png" width="1200px">
 
 ## 5. DEVELOPMENT TOOLKITS 
-
 ### 5.1 Frame_ID reset
 
 Rosbag recoreds message with their raw frame_id. If user need to show or run multiple lidar same time, we use [srv_tools](https://github.com/srv/srv_tools) to change frame_id of each topics. To install srv_tools, please follow [srv_tools installation](https://wiki.ros.org/srv_tools).
@@ -272,14 +269,16 @@ python2  change_frameid.py [inbag_path] [outbag_path]      # Specify bag path
 
 Note: This script will transform the raw frame_id to new one(right) as based on topic(left) follows:
 ~~~
-"/avia/livox/lidar"     -> "avia_frame"
-"/avia/livox/imu"       -> "avia_frame" 
-"/livox/imu"            -> "horizon_frame" 
-"/livox/lidar"          -> "horizon_frame" 
-"/os_cloud_node/points" -> "os0_sensor" 
-"/os_cloud_node/imu"    -> "os0_imu"
-"/os_cloud_nodee/points"-> "os1_sensor"
-"/os_cloud_nodee/imu"   -> "os1_imu"  
+
+"/avia/livox/lidar"      -> "avia_frame"
+"/avia/livox/imu"        -> "avia_frame" 
+"/livox/imu"             -> "horizon_frame" 
+"/livox/lidar"           -> "horizon_frame" 
+"/os_cloud_node/points"  -> "os0_sensor" 
+"/os_cloud_node/imu"     -> "os0_imu"
+"/os_cloud_nodee/points" -> "os1_sensor"
+"/os_cloud_nodee/imu"    -> "os1_imu"  
+
 ~~~
 
 ### 5.2 Visulize Data
