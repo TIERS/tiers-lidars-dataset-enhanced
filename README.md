@@ -67,7 +67,7 @@ Physical drawings and schematics of the sensor suite is given below. The unit of
 <div align=center>
 <img src="./imgs/hardware_scales.png" width="800px">
 </div>
-<p align="center">Our data collecting platform, front view RGB (left), top view (middle) and front view (right).</p>
+<p align="center">Our data collecting platform, front view RGB (left).</p>
 
 
 
@@ -206,7 +206,7 @@ Forest02|2022-02-08|22.4g|73s|Winter,night,Straight|[Rosbag](   )|MOCAP  [link](
 ### 3.2 Ground Truth:
 The meaning of each column in ground truth files is as follows:  
 ~~~
-timestamp, pose.position.x,  pose.position.y,  pose.position.z, roll, pitch, yaw, pose.orientation.x, pose.orientation.y, pose.orientation.z, pose.orientation.w. 
+timestamp, pose.position.x,  pose.position.y,  pose.position.z, pose.orientation.x, pose.orientation.y, pose.orientation.z, pose.orientation.w. 
 ~~~
 
 In the MOCAP system available environment, the ground truth data from the MOCAP system are recorded in rosbag. The user can generate the ground truth file by himself. A Script named 'result_sub_ros.py' is provided in the scripts folder to record the result and save it into a CSV file.
