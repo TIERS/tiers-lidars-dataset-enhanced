@@ -26,7 +26,7 @@ Our dataset was captured by a rich suite of sensors. Subsets of the data from th
 Indoor data(Calibrate Sequence) |  OpenRoad SLAM example(Road03 Sequence)
 :-------------------------:|:-------------------------:
 ![](./imgs/sample_data.gif)  |  ![](./imgs/slam_road.gif)
-Forest SLAM example(Forest01 Sequence) |  Corridor SLAM example(Indoor10 Sequence)
+Corridor SLAM example(Indoor10 Sequence) |  Forest SLAM example(Forest01 Sequence)
 ![](./imgs/slam_3rd.gif)  |  ![](./imgs/slam_forest.gif)
 
 The dataset is available at the [University of Turku servers](https://utufi.sharepoint.com/:f:/s/msteams_0ed7e9/Etwsa7m8hxhMk9H3x-K6DfUBgU3x-ZK9vMeD_V0J2mdHwA). Specific links for each sequence and for the ground truth data are available in Section 3.1 of this file.
@@ -55,7 +55,7 @@ Keywords: Lidar, Dataset, Multi-modal, Multi-scenario, SLAM, Solid-state lidarsA
 
 ## 1. LICENSE
 
-This work is licensed under the MIT license and is provided for academic purpose. Please contact us at sier.s.ha@utu.fi or qingqli@utu.fi for further information.  
+This work is licensed under the MIT license and is provided for academic purpose. Please contact us at sierha@utu.fi or qingqli@utu.fi for further information.  
 
 
 ## 2. SENSOR SETUP
