@@ -197,7 +197,7 @@ Indoor08|2022-07-05|33.1g|89s|day,indoor,office|[Rosbag](https://utufi.sharepoin
 Indoor09|2022-07-11|48.7g|168s|day,indoor,corridor|[Rosbag](https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/EZvRl21n6mhBrpPPcB3xqokBobBBNz-7wqWG2ShmOyNQ0g?e=riIudl)|SLAM+ICP [link](./data/ground_truth/GT_indoor09.csv)  
 Indoor10|2022-06-07|43.0g|121s|day,indoor,corridor|[Rosbag](https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/EUSlVybEudlGp4avIL3eqmwB44YHsf4yZIhZ038WcwIY1A?e=Ax2m2D)|SLAM+ICP [link](./data/ground_truth/GT_indoor10.csv)  
 Indoor11|2021-06-06|79.5g|237s|day,indoor,hall|[Rosbag](https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/Eeo1VD96TtVJlooc2cE4xkUBOI7amM0cHp2o26lvkCC5YQ?e=Oi54F4)|SLAM+ICP [link](./data/ground_truth/GT_indoor11.csv)
-<!-- Road3|2022-06-17|44.0g|146s|summer,outdoor,road|[Rosbag](   )|GNSS/RTK  [link](./data/ground_truth/GT_road03.csv)   -->
+Road3|2022-06-17|44.0g|146s|summer,outdoor,road|[Rosbag](   )|GNSS/RTK  [link](./data/ground_truth/GT_road03.csv)  
 Forest01|2022-02-08|21.9g|62s|Winter,night,Square|[Rosbag]( https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/ERuiTeOtX5FGs4GJPH9-DhYBxyRBBnC21o3YeqvNwGFV6w?e=Tcq2xl  )|MOCAP [link](./data/ground_truth/GT_opti_forest01.csv) 
 Forest02|2022-02-08|22.4g|73s|Winter,night,Straight|[Rosbag](https://utufi.sharepoint.com/:u:/s/msteams_0ed7e9/EQjHj-L7UzhMuYoD9RzAJd0BftgV6ZQ32hwt2-AAHHwBsw?e=YxihAM)|MOCAP  [link](./data/ground_truth/GT_opti_forest02.csv) 
 
