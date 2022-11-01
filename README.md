@@ -1,7 +1,7 @@
 
-## Multi-Modal Lidars Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms 
+## A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments 
 
-Welcome to TIERS lidars dataset! 
+Welcome to TIERS Enhanced lidars dataset! You can check our preprint paper [here](https://arxiv.org/abs/2210.00812) for more detatil. 
 <!-- Our paper has been accepted by IEEE IROS 2022. You can check our paper [here](https://arxiv.org/pdf/2203.03454v1.pdf). -->
 
 <div align=center>
